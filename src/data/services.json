@@ -1,0 +1,142 @@
+{
+  "services": [
+    {
+      "id": "custom-homes",
+      "title": "Custom Home Builds",
+      "short_description": "Your vision, our expertise—create a home that's uniquely yours.",
+      "description": "From initial concept to final handover, we work closely with you to design and build a home that perfectly matches your lifestyle, needs, and budget. Our custom home service includes architectural design, council approvals, and premium construction.",
+      "features": [
+        "Personalised architectural design",
+        "3D visualisation of your home",
+        "Sustainable building options",
+        "Premium material selection",
+        "Comprehensive project management",
+        "Lifetime structural warranty"
+      ],
+      "image": "/images/service-custom.jpg",
+      "process": [
+        { "step": 1, "title": "Consultation", "description": "Discuss your vision, needs, and budget" },
+        { "step": 2, "title": "Design", "description": "Create custom plans with our architects" },
+        { "step": 3, "title": "Approval", "description": "Handle all council permits and approvals" },
+        { "step": 4, "title": "Construction", "description": "Build with regular updates and inspections" },
+        { "step": 5, "title": "Handover", "description": "Keys to your new dream home" }
+      ],
+      "cta": "Start Designing Your Home"
+    },
+    {
+      "id": "renovations",
+      "title": "Renovations & Extensions",
+      "short_description": "Transform your existing home into the space you've always wanted.",
+      "description": "Whether you need more space for a growing family or want to modernise your home, our renovation specialists deliver exceptional results. We handle everything from kitchen and bathroom remodels to complete home transformations and second-storey additions.",
+      "features": [
+        "Kitchen and bathroom renovations",
+        "Second-storey additions",
+        "Room extensions",
+        "Complete home makeovers",
+        "Heritage restoration",
+        "Indoor-outdoor living spaces"
+      ],
+      "image": "/images/service-renovation.jpg",
+      "process": [
+        { "step": 1, "title": "Assessment", "description": "Evaluate your home and discuss goals" },
+        { "step": 2, "title": "Design", "description": "Create renovation plans and 3D renders" },
+        { "step": 3, "title": "Quote", "description": "Detailed fixed-price quotation" },
+        { "step": 4, "title": "Build", "description": "Quality construction with minimal disruption" },
+        { "step": 5, "title": "Completion", "description": "Final touches and handover" }
+      ],
+      "cta": "Plan Your Renovation"
+    },
+    {
+      "id": "knockdown",
+      "title": "Knockdown & Rebuild",
+      "short_description": "Love your location? Build new on your existing block.",
+      "description": "Perfect for those who love their neighbourhood but need a new home. We handle the entire process from demolition permits and hazardous material removal to building your brand new home, all while you stay in the location you love.",
+      "features": [
+        "Complete demolition services",
+        "Asbestos removal and disposal",
+        "Site preparation and earthworks",
+        "New home construction",
+        "Landscaping and finishing",
+        "Temporary accommodation coordination"
+      ],
+      "image": "/images/service-knockdown.jpg",
+      "process": [
+        { "step": 1, "title": "Site Review", "description": "Assess your block and discuss options" },
+        { "step": 2, "title": "Design", "description": "Choose or customise a home design" },
+        { "step": 3, "title": "Demolition", "description": "Safe removal of existing structure" },
+        { "step": 4, "title": "Construction", "description": "Build your new home on-site" },
+        { "step": 5, "title": "Move In", "description": "Settle into your brand new home" }
+      ],
+      "cta": "Explore Rebuild Options"
+    },
+    {
+      "id": "house-land",
+      "title": "House & Land Packages",
+      "short_description": "The complete solution—find your perfect block and home in one.",
+      "description": "We partner with leading land developers across Australia to offer exceptional house and land packages. Choose from carefully selected locations and home designs that maximise value and suit your lifestyle.",
+      "features": [
+        "Premium land selections",
+        "Curated home designs",
+        "Package pricing discounts",
+        "Established community locations",
+        "Investment opportunities",
+        "Turnkey solutions available"
+      ],
+      "image": "/images/service-house-land.jpg",
+      "process": [
+        { "step": 1, "title": "Discovery", "description": "Identify ideal locations and budgets" },
+        { "step": 2, "title": "Selection", "description": "Choose your land and home design" },
+        { "step": 3, "title": "Finance", "description": "Arrange package financing options" },
+        { "step": 4, "title": "Build", "description": "Construction begins on your land" },
+        { "step": 5, "title": "Ownership", "description": "Complete and move into your new home" }
+      ],
+      "cta": "View Available Packages"
+    },
+    {
+      "id": "design-build",
+      "title": "Design & Build",
+      "short_description": "One team, one vision—seamless design and construction.",
+      "description": "Our integrated design-build service offers a streamlined approach where our architects and builders work together from day one. This ensures better communication, faster timelines, and a home that's designed to be built efficiently.",
+      "features": [
+        "Integrated architecture and construction",
+        "Single point of contact",
+        "Faster project delivery",
+        "Cost-certainty through design",
+        "Value engineering",
+        "Collaborative decision making"
+      ],
+      "image": "/images/service-design-build.jpg",
+      "process": [
+        { "step": 1, "title": "Vision", "description": "Share your dreams and requirements" },
+        { "step": 2, "title": "Concept", "description": "Our team develops design options" },
+        { "step": 3, "title": "Refine", "description": "Iterate on design and budget alignment" },
+        { "step": 4, "title": "Build", "description": "Streamlined construction process" },
+        { "step": 5, "title": "Enjoy", "description": "Move into your perfectly crafted home" }
+      ],
+      "cta": "Begin Your Design Journey"
+    },
+    {
+      "id": "investment",
+      "title": "Investment Properties",
+      "short_description": "Build wealth through smart property investment.",
+      "description": "We specialise in building high-yield investment properties designed to maximise rental returns and capital growth. From duplex developments to apartment builds, we understand what investors need.",
+      "features": [
+        "High-yield design focus",
+        "Dual occupancy options",
+        "Depreciation schedule assistance",
+        "Investment-grade finishes",
+        "Property management introductions",
+        "Tax-effective construction"
+      ],
+      "image": "/images/service-investment.jpg",
+      "process": [
+        { "step": 1, "title": "Strategy", "description": "Define investment goals and budget" },
+        { "step": 2, "title": "Analysis", "description": "Review ROI potential and options" },
+        { "step": 3, "title": "Design", "description": "Create investor-focused plans" },
+        { "step": 4, "title": "Build", "description": "Quality construction for durability" },
+        { "step": 5, "title": "Return", "description": "Property ready for tenants or sale" }
+      ],
+      "cta": "Discuss Investment Options"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Testimonials", "href": "/projects#testimonials" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "mobile_navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Our Services", "href": "/services" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Contact Us", "href": "/contact" },
+    { "label": "Get a Quote", "href": "/contact", "isButton": true }
+  ],
+  "footer_links": {
+    "company": [
+      { "label": "About Us", "href": "/about" },
+      { "label": "Our Team", "href": "/about#team" },
+      { "label": "Careers", "href": "/careers" },
+      { "label": "News", "href": "/news" }
+    ],
+    "services": [
+      { "label": "Custom Homes", "href": "/services#custom-homes" },
+      { "label": "Renovations", "href": "/services#renovations" },
+      { "label": "Knockdown & Rebuild", "href": "/services#knockdown" },
+      { "label": "House & Land", "href": "/services#house-land" }
+    ],
+    "support": [
+      { "label": "Contact Us", "href": "/contact" },
+      { "label": "FAQs", "href": "/faqs" },
+      { "label": "Request a Quote", "href": "/contact" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Service", "href": "/terms" },
+      { "label": "Cookie Policy", "href": "/cookies" }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "The Brighton Residence",
+      "location": "Brighton, VIC",
+      "type": "Custom Home",
+      "style": "Modern Coastal",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garage": 2,
+      "size_sqm": 380,
+      "description": "A stunning modern coastal home designed to capture natural light and ocean breezes. Featuring expansive living areas, a gourmet chef's kitchen, and seamless indoor-outdoor entertaining spaces.",
+      "features": [
+        "Infinity pool with ocean views",
+        "Gourmet kitchen with butler's pantry",
+        "Home theatre room",
+        "Solar power system",
+        "Smart home automation"
+      ],
+      "build_time": "14 months",
+      "year_completed": 2024,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Mosman Family Home",
+      "location": "Mosman, NSW",
+      "type": "Custom Home",
+      "style": "Contemporary Luxury",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garage": 3,
+      "size_sqm": 520,
+      "description": "An architectural masterpiece combining sophisticated design with family functionality. This luxury residence features flowing entertaining spaces, a resort-style backyard, and premium finishes throughout.",
+      "features": [
+        "Double-height entry foyer",
+        "Wine cellar and tasting room",
+        "Resort-style landscaping",
+        "Home office suite",
+        "Three-car basement garage"
+      ],
+      "build_time": "18 months",
+      "year_completed": 2023,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Paddington Renovation",
+      "location": "Paddington, NSW",
+      "type": "Renovation",
+      "style": "Heritage Contemporary",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": 1,
+      "size_sqm": 220,
+      "description": "A sympathetic renovation of a heritage terrace, blending original character with modern living. The project included a rear extension, new kitchen and bathrooms, and restoration of period features.",
+      "features": [
+        "Heritage façade restoration",
+        "Modern rear extension",
+        "Designer kitchen",
+        "Landscaped courtyard",
+        "Energy-efficient upgrade"
+      ],
+      "build_time": "10 months",
+      "year_completed": 2024,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Noosa Beach House",
+      "location": "Noosa Heads, QLD",
+      "type": "Custom Home",
+      "style": "Tropical Modern",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garage": 2,
+      "size_sqm": 350,
+      "description": "A relaxed tropical haven designed for family holidays and entertaining. This home embraces its coastal setting with lush landscaping, natural materials, and spaces that flow seamlessly to the outdoors.",
+      "features": [
+        "Direct beach access",
+        "Tropical gardens and pool",
+        "Open-air living pavilion",
+        "Surfboard storage room",
+        "Outdoor shower and BBQ area"
+      ],
+      "build_time": "12 months",
+      "year_completed": 2024,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Canberra Knockdown",
+      "location": "Canberra, ACT",
+      "type": "Knockdown & Rebuild",
+      "style": "Modern Family",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "garage": 2,
+      "size_sqm": 280,
+      "description": "A complete rebuild on a beloved block, allowing this family to stay in their preferred neighbourhood while enjoying a brand new, energy-efficient home designed for modern family life.",
+      "features": [
+        "7-star energy rating",
+        "Home automation system",
+        "Open-plan family zone",
+        "Kids' retreat upstairs",
+        "Low-maintenance landscaping"
+      ],
+      "build_time": "11 months",
+      "year_completed": 2023,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1493932484895-752d1471eab5?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Adelaide Hills Home",
+      "location": "Stirling, SA",
+      "type": "Custom Home",
+      "style": "Rural Contemporary",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "garage": 2,
+      "size_sqm": 320,
+      "description": "Nestled in the Adelaide Hills, this home takes full advantage of its rural setting with panoramic views, extensive outdoor living areas, and materials that complement the natural landscape.",
+      "features": [
+        "Panoramic valley views",
+        "Wrap-around verandah",
+        "Pottery studio",
+        "Vegetable gardens and orchard",
+        "Wood-fired pizza oven"
+      ],
+      "build_time": "13 months",
+      "year_completed": 2024,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1493932484895-752d1471eab5?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "The Perth Duplex",
+      "location": "Subiaco, WA",
+      "type": "Investment",
+      "style": "Modern Urban",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": 1,
+      "size_sqm": 180,
+      "description": "A pair of stylish urban residences designed for maximum rental yield. Each unit features contemporary finishes, private courtyards, and smart space utilisation.",
+      "features": [
+        "Dual income potential",
+        "Private courtyards",
+        "Designer finishes",
+        "Low maintenance",
+        "High rental demand area"
+      ],
+      "build_time": "15 months",
+      "year_completed": 2023,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1493932484895-752d1471eab5?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "The Hobart Townhouse",
+      "location": "Battery Point, TAS",
+      "type": "Custom Home",
+      "style": "Heritage Modern",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": 1,
+      "size_sqm": 200,
+      "description": "A sophisticated townhouse in historic Battery Point, combining traditional streetscape with contemporary interiors. High ceilings, original features, and stunning River Derwent views.",
+      "features": [
+        "Water views",
+        "High ceilings throughout",
+        "Fireplace in living room",
+        "Designer kitchen",
+        "Walker access to cafes"
+      ],
+      "build_time": "12 months",
+      "year_completed": 2024,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop&q=60"
+      ]
+    }
+  ],
+  "categories": [
+    { "id": "all", "label": "All Projects" },
+    { "id": "Custom Home", "label": "Custom Homes" },
+    { "id": "Renovation", "label": "Renovations" },
+    { "id": "Knockdown & Rebuild", "label": "Knockdown & Rebuild" },
+    { "id": "Investment", "label": "Investment" }
+  ]
+}

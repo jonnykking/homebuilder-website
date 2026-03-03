@@ -1,0 +1,12 @@
+# Robots.txt for Apex Home Builders
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://apexhomebuilders.com.au/sitemap.xml
+
+# Disallow admin/private areas
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/

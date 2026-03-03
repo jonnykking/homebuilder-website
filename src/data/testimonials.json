@@ -1,0 +1,70 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Thompson",
+      "location": "Brighton, VIC",
+      "rating": 5,
+      "project": "Custom Home",
+      "quote": "Apex made the daunting process of building our forever home feel seamless. From the first meeting to handover, we felt supported and heard. The attention to detail is incredible, and our home exceeds every expectation we had.",
+      "highlight": "Every expectation exceeded",
+      "image": "/images/testimonials/sarah.jpg",
+      "date": "September 2024"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "location": "Mosman, NSW",
+      "rating": 5,
+      "project": "Custom Home",
+      "quote": "We interviewed six builders before choosing Apex, and I'm so glad we did. Their transparent pricing, quality craftsmanship, and genuine care for our vision set them apart. Our project manager was exceptional—always available, always solutions-focused.",
+      "highlight": "Transparent pricing, exceptional quality",
+      "image": "/images/testimonials/michael.jpg",
+      "date": "December 2023"
+    },
+    {
+      "id": 3,
+      "name": "Emma Williams",
+      "location": "Paddington, NSW",
+      "rating": 5,
+      "project": "Heritage Renovation",
+      "quote": "Renovating a heritage terrace seemed overwhelming until we found Apex. They understood both the heritage requirements and our modern lifestyle needs. The result is a beautiful blend of old and new that our neighbours constantly admire.",
+      "highlight": "Perfect heritage-modern blend",
+      "image": "/images/testimonials/emma.jpg",
+      "date": "June 2024"
+    },
+    {
+      "id": 4,
+      "name": "David & Lisa Morrison",
+      "location": "Canberra, ACT",
+      "rating": 5,
+      "project": "Knockdown & Rebuild",
+      "quote": "We loved our neighbourhood but our old house had too many issues. Apex made the knockdown-rebuild process so smooth. We now have an energy-efficient, modern home on the same street where we've lived for 20 years. Couldn't be happier!",
+      "highlight": "Smooth knockdown-rebuild process",
+      "image": "/images/testimonials/morrison.jpg",
+      "date": "March 2024"
+    },
+    {
+      "id": 5,
+      "name": "Jennifer O'Brien",
+      "location": "Noosa Heads, QLD",
+      "rating": 5,
+      "project": "Beach House",
+      "quote": "Our beach house is everything we dreamed of. The Apex team really listened to how we wanted to live—indoor-outdoor flow, space for family gatherings, and practical features for beach living. They delivered on time and on budget.",
+      "highlight": "Delivered on time and on budget",
+      "image": "/images/testimonials/jennifer.jpg",
+      "date": "August 2024"
+    },
+    {
+      "id": 6,
+      "name": "Robert Zhang",
+      "location": "Subiaco, WA",
+      "rating": 5,
+      "project": "Investment Property",
+      "quote": "As an investor, I needed a builder who understood ROI. Apex designed duplexes that maximise rental yield while keeping construction costs reasonable. Both units were tenanted within a week of completion. Highly recommend for investment builds.",
+      "highlight": "Excellent for investment properties",
+      "image": "/images/testimonials/robert.jpg",
+      "date": "November 2023"
+    }
+  ]
+}

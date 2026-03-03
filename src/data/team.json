@@ -1,0 +1,68 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "James Anderson",
+      "role": "Managing Director",
+      "bio": "Founder of Apex Home Builders with over 30 years in residential construction. James started as a carpenter and built the company on principles of quality craftsmanship and customer care.",
+      "image": "/images/team/james.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Mitchell",
+      "role": "Head of Design",
+      "bio": "Award-winning architect with 20 years of experience designing Australian homes. Sarah leads our design team, ensuring every home is both beautiful and functional.",
+      "image": "/images/team/sarah.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Michael Roberts",
+      "role": "Construction Manager",
+      "bio": "Licensed builder with expertise in project management and quality control. Michael oversees all construction projects to ensure they meet Apex standards.",
+      "image": "/images/team/michael.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Chen",
+      "role": "Client Relations Manager",
+      "bio": "Emily ensures every client feels supported throughout their build journey. With a background in customer service, she's your point of contact for all updates and questions.",
+      "image": "/images/team/emily.jpg"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "role": "Senior Estimator",
+      "bio": "David's detailed quotes ensure there are no surprises. He works closely with clients to understand their budget and finds solutions that maximise value.",
+      "image": "/images/team/david.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lisa Park",
+      "role": "Interior Designer",
+      "bio": "Lisa helps clients create interiors that reflect their personality and lifestyle. From material selection to colour palettes, she makes the finishing touches perfect.",
+      "image": "/images/team/lisa.jpg"
+    }
+  ],
+  "values": [
+    {
+      "title": "Quality First",
+      "description": "We never compromise on materials or workmanship. Every home we build is crafted to last generations.",
+      "icon": "Award"
+    },
+    {
+      "title": "Transparent Communication",
+      "description": "From initial quote to final handover, we keep you informed with honest, clear updates on your project.",
+      "icon": "MessageSquare"
+    },
+    {
+      "title": "Client-Focused",
+      "description": "Your home should reflect your lifestyle. We listen, adapt, and deliver homes that truly suit your needs.",
+      "icon": "Users"
+    },
+    {
+      "title": "Integrity",
+      "description": "We do what we say. Our fixed-price contracts and realistic timelines mean no nasty surprises.",
+      "icon": "Shield"
+    }
+  ]
+}

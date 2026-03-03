@@ -1,0 +1,104 @@
+{
+  "site": {
+    "name": "Apex Home Builders",
+    "tagline": "Building Australian Dreams Since 1999",
+    "description": "Award-winning custom home builders with over 25 years of experience crafting exceptional residences across Australia. From first homes to luxury builds, we bring your vision to life."
+  },
+  "hero": {
+    "title": "Build Your Dream Home with Australia's Trusted Builders",
+    "subtitle": "Custom homes crafted with precision, quality, and care. Over 25 years of experience turning Australian dreams into reality.",
+    "cta": {
+      "primary": {
+        "text": "Start Your Project",
+        "href": "/contact"
+      },
+      "secondary": {
+        "text": "View Our Portfolio",
+        "href": "/projects"
+      }
+    },
+    "badge": "25+ Years of Excellence"
+  },
+  "features": {
+    "title": "Why Choose Apex Home Builders?",
+    "subtitle": "We combine decades of expertise with modern innovation to deliver homes that stand the test of time.",
+    "items": [
+      {
+        "icon": "award",
+        "title": "Award-Winning Craftsmanship",
+        "description": "Recognised by the Housing Industry Association and Master Builders Association for excellence in residential construction across Australia."
+      },
+      {
+        "icon": "users",
+        "title": "Dedicated Project Managers",
+        "description": "Your personal project manager guides you from initial design through to handover, ensuring clear communication at every stage."
+      },
+      {
+        "icon": "shield",
+        "title": "Lifetime Structural Guarantee",
+        "description": "We stand behind our work with comprehensive structural warranties, giving you peace of mind for years to come."
+      },
+      {
+        "icon": "leaf",
+        "title": "Sustainable Building Practices",
+        "description": "Energy-efficient designs and eco-friendly materials reduce your environmental footprint and ongoing energy costs."
+      },
+      {
+        "icon": "clock",
+        "title": "On-Time Delivery",
+        "description": "Our proven project management systems ensure your home is completed within the agreed timeframe."
+      },
+      {
+        "icon": "dollar-sign",
+        "title": "Transparent Pricing",
+        "description": "No hidden costs or surprises. Detailed quotes and regular financial updates keep you informed throughout the build."
+      }
+    ]
+  },
+  "cta_sections": {
+    "newsletter": {
+      "title": "Get Inspired",
+      "description": "Receive the latest design trends, building tips, and exclusive offers straight to your inbox.",
+      "button_text": "Subscribe Now"
+    },
+    "consultation": {
+      "title": "Ready to Start Your Building Journey?",
+      "description": "Book a free, no-obligation consultation with our expert team. We'll discuss your vision, budget, and timeline to create a tailored plan for your dream home.",
+      "button_text": "Book Free Consultation",
+      "button_href": "/contact"
+    },
+    "brochure": {
+      "title": "Download Our Design Guide",
+      "description": "Explore our range of home designs and discover what's possible for your new build.",
+      "button_text": "Download Design Guide"
+    }
+  },
+  "about": {
+    "title": "Building Excellence Since 1999",
+    "intro": "For over a quarter of a century, Apex Home Builders has been at the forefront of Australian residential construction, delivering homes that families cherish for generations.",
+    "story": "Founded with a vision to create exceptional homes that reflect the Australian lifestyle, Apex Home Builders has grown from a small family business to one of Australia's most respected construction companies. Our journey began with a simple belief: every Australian deserves a home built with integrity, quality craftsmanship, and genuine care.",
+    "values": [
+      {
+        "title": "Quality First",
+        "description": "We never compromise on materials or workmanship. Every home we build meets the highest Australian standards."
+      },
+      {
+        "title": "Client-Focused",
+        "description": "Your dreams guide our work. We listen, collaborate, and deliver homes that exceed expectations."
+      },
+      {
+        "title": "Integrity Always",
+        "description": "Honest communication and transparent pricing form the foundation of every project we undertake."
+      },
+      {
+        "title": "Innovation Driven",
+        "description": "We embrace new technologies and sustainable practices to build better homes for tomorrow."
+      }
+    ]
+  },
+  "seo": {
+    "title": "Apex Home Builders | Custom Home Builders Australia | New Homes & Renovations",
+    "description": "Award-winning custom home builders with 25+ years experience. Specialising in new homes, renovations, knockdown rebuild & house and land packages across Australia. Get a free quote today.",
+    "keywords": ["home builders Australia", "custom home builders", "new home construction", "home renovations", "knockdown rebuild", "house and land packages", "building contractors", "residential construction"]
+  }
+}

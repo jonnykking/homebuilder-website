@@ -1,0 +1,66 @@
+{
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Homes Built",
+      "description": "Over 500 families have trusted us with their dream home builds."
+    },
+    {
+      "value": "25+",
+      "label": "Years Experience",
+      "description": "A quarter century of expertise in residential construction."
+    },
+    {
+      "value": "98%",
+      "label": "Client Satisfaction",
+      "description": "Almost all clients would recommend us to friends and family."
+    },
+    {
+      "value": "15+",
+      "label": "Industry Awards",
+      "description": "Recognised by HIA and Master Builders for excellence."
+    },
+    {
+      "value": "95%",
+      "label": "On-Time Delivery",
+      "description": "The vast majority of our projects complete on or ahead of schedule."
+    },
+    {
+      "value": "100%",
+      "label": "Fixed Price Commitment",
+      "description": "No hidden costs. The price we quote is the price you pay."
+    }
+  ],
+  "awards": [
+    {
+      "year": 2024,
+      "organisation": "HIA",
+      "award": "Custom Home of the Year (NSW)"
+    },
+    {
+      "year": 2023,
+      "organisation": "Master Builders",
+      "award": "Excellence in Residential Construction"
+    },
+    {
+      "year": 2023,
+      "organisation": "HIA",
+      "award": "Best Kitchen Design"
+    },
+    {
+      "year": 2022,
+      "organisation": "Australian Housing Awards",
+      "award": "Sustainable Home Builder of the Year"
+    },
+    {
+      "year": 2021,
+      "organisation": "Master Builders",
+      "award": "Best Renovation Project"
+    },
+    {
+      "year": 2020,
+      "organisation": "HIA",
+      "award": "Professional Builder of the Year"
+    }
+  ]
+}

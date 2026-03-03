@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/ApexBuilder-manual',
+  basePath: '/homebuilder-website',
   output: 'export',
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
